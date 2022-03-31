@@ -7,7 +7,6 @@ import static Projects.UcusYeni.BiletYazdir.BiletYazdir;
 import static Projects.UcusYeni.Karsilama.Karsilama;
 import static Projects.UcusYeni.Kimlik.Kimlik;
 import static Projects.UcusYeni.UcusBilgileri.UcusBilgileri;
-import static Projects.UcusYeni.Yolcu.Yolcu;
 import static Projects.UcusYeni.YasKontrol.YasKontrol;
 
 public class RunnerSon {
