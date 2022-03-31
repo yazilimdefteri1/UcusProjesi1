@@ -26,7 +26,6 @@ public class RunnerSon {
         Karsilama();
         UcusBilgileri();
         Kimlik();
-        //Yolcu();
         YasKontrol();
         BiletHesapla();
         BiletYazdir();
