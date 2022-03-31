@@ -17,7 +17,7 @@ public class RunnerSon {
     static int uKont;
     static double biletFiyati;
     static double tekCiftYonIndirim;
-    static double yasIndirim;
+
 
 
     public static void main(String[] args) {

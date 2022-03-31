@@ -8,10 +8,10 @@ import static Projects.UcusYeni.RunnerSon.*;
 
 public class UlKont {
 
-    static List<String> ulke1 = new ArrayList<String>(Arrays.asList("ABD", "KANADA", "MEKSİKA"));
-    static List<String> ulke2 = new ArrayList<String>(Arrays.asList("KUBA", "PANAMA"));
-    static List<String> ulke3 = new ArrayList<String>(Arrays.asList("ARJANTİN", "BREZİLYA"));
-    static List<String> ulke4 = new ArrayList<String>(Arrays.asList("PERU", "URUGUAY"));
+    static List<String> ulke1 = new ArrayList<String>(Arrays.asList("ABD", "KANADA", "MEKSİKA", "KUBA", "PANAMA", "ARJANTİN", "BREZİLYA", "PERU", "URUGUAY"));
+    static List<String> ulke2 = new ArrayList<String>(Arrays.asList("TURKIYE", "IRAN", "RUSYA", "CIN", "AZERBAYCAN", "HINDISTAN","UKRAYNA", "JAPONYA","GUNEYKORE"));
+    static List<String> ulke3 = new ArrayList<String>(Arrays.asList("ALMANYA", "HOLLANDA","BELCIKA","FRANSA","YUNANISTAN","ISVEC", "ISVICRE","ITALYA","INGILTERE"));
+    static List<String> ulke4 = new ArrayList<String>(Arrays.asList("SENEGAL","NIJERYA","GANA","KENYA","TANZANYA","UGANDA","FAS","CEZAYIR","KAMERUN","ARABISTAN","TUNUS","MISIR"));
 
     public static void UlKont() {
         do {
